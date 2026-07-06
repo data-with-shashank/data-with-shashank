@@ -69,12 +69,12 @@ I'm a Data Engineer with 9 years of experience building reliable, scalable data 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=data-with-shashank&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=data-with-shashank&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=data-with-shashank&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-with-shashank&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=data-with-shashank&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@ I'm a Data Engineer with 9 years of experience building reliable, scalable data 
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=data-with-shashank&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.devomb.com/?username=data-with-shashank&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
