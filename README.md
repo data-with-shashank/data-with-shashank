@@ -1,7 +1,7 @@
 <h1 align="center">Hi There, I'm Shashank Gollapally 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/wave.gif" width="60" alt="wave" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60" alt="wave" />
 </p>
 
 <p align="center">
