@@ -19,6 +19,8 @@
 I'm a Data Engineer with 9 years of experience building reliable, scalable data pipelines and turning messy data into decisions people actually trust. I like clean schemas, fast queries, and dashboards that don't lie.
 
 - I've spent years designing ETL/ELT pipelines across on-prem and cloud
+- Worked extensivley in designing/creating Data warehouse, Data marts using dimensions/facts.
+- Extensivley worked on OLTP/OLAP systems.
 - Cloud-agnostic by necessity, comfortable across Azure and AWS
 - I believe a good dashboard is worth a thousand meetings
 - Fueled by coffee, curiosity, and the occasional SQL query that takes way too long to run
@@ -87,6 +89,6 @@ I'm a Data Engineer with 9 years of experience building reliable, scalable data 
 
 ## Let's Connect
 
-I'm always happy to talk data engineering, pipelines, or dashboards, feel free to reach out on LinkedIn above.
+I'm always happy to talk about best practices in data warehosuse, data engineering, pipelines, or dashboards, feel free to reach out on LinkedIn above.
 
 **Shashank Gollapally** — Data Engineer | 9+ Years | Building data systems that just work.
