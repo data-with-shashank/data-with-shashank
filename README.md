@@ -18,7 +18,6 @@
 
 I'm a Data Engineer with 9 years of experience building reliable, scalable data pipelines and turning messy data into decisions people actually trust. I like clean schemas, fast queries, and dashboards that don't lie.
 
-- I create content on YouTube, write on Medium, and share bite-sized data tips on Instagram
 - I've spent years designing ETL/ELT pipelines across on-prem and cloud
 - Cloud-agnostic by necessity, comfortable across Azure and AWS
 - I believe a good dashboard is worth a thousand meetings
